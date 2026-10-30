@@ -8,3 +8,4 @@ venv/
 .vscode/
 reports/*.docx
 reports/*.pptx
+reports/figures/ui_*.png

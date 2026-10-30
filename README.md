@@ -1,17 +1,9 @@
 # AI Loan Prediction
 
-Loan approval prediction and financial risk assessment. 7th semester ML project (PBL).
+Loan approval prediction and financial risk assessment using machine learning.
 
 The classifier is Logistic Regression trained with batch gradient descent, written from scratch in NumPy.
 No scikit-learn model, scaler or metric is used. The confusion matrix, ROC curve and AUC are also coded by hand.
-
-## Screenshots
-![Dashboard](reports/figures/ui_dashboard.png)
-![Prediction](reports/figures/ui_prediction.png)
-![What-If simulator](reports/figures/ui_simulator.png)
-
-## Live demo
-LINK_HERE (replace after deploying)
 
 ## How to run
 ```bash
