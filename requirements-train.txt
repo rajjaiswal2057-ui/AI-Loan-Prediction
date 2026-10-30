@@ -1,0 +1,3 @@
+# extra packages needed only to re-run analysis/eda.py and training/train.py (figures)
+-r requirements.txt
+matplotlib>=3.8
