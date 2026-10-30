@@ -9,3 +9,4 @@ venv/
 reports/*.docx
 reports/*.pptx
 reports/figures/ui_*.png
+reports/figures/ui_*.png

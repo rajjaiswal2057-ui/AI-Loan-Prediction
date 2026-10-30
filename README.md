@@ -5,6 +5,9 @@ Loan approval prediction and financial risk assessment using machine learning.
 The classifier is Logistic Regression trained with batch gradient descent, written from scratch in NumPy.
 No scikit-learn model, scaler or metric is used. The confusion matrix, ROC curve and AUC are also coded by hand.
 
+## Live demo
+Coming soon.
+
 ## How to run
 ```bash
 pip install -r requirements.txt
