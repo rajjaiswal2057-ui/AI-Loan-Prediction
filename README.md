@@ -16,10 +16,6 @@ python tests/test_project.py  # sanity tests (model, metrics, API validation)
 ```
 The trained model is already included, so `python app/app.py` works straight away.
 
-## Deploy
-The repo includes `Procfile` and `render.yaml`, so it can be deployed on Render as a web service
-(build: `pip install -r requirements.txt`, start: `gunicorn app.app:app --bind 0.0.0.0:$PORT`).
-
 ## Folders
 | Folder | What it contains |
 |---|---|
