@@ -3,6 +3,10 @@
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-3.x-000000?logo=flask&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-from%20scratch-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-data%20handling-150458?logo=pandas&logoColor=white)
+![Model](https://img.shields.io/badge/Model-Logistic%20Regression-1f6feb)
+![Optimizer](https://img.shields.io/badge/Optimizer-Gradient%20Descent-d97706)
+![Deployed](https://img.shields.io/badge/Deployed%20on-Render-46E3B7?logo=render&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 A web application that predicts loan approval and assesses financial risk. The classifier is **Logistic Regression trained with batch gradient descent, written from scratch in NumPy**. No scikit-learn model, scaler or metric is used, and the confusion matrix, ROC curve and AUC are also implemented by hand.
@@ -167,6 +171,10 @@ This is an educational project and must not be used for real lending decisions.
 - k-fold cross-validation and comparison with k-NN, decision trees and a small neural network
 - Probability calibration and a fairness analysis
 - A larger real-world dataset
+
+## License
+
+Released under the [MIT License](LICENSE).
 
 ## License
 
